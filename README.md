@@ -42,53 +42,54 @@ This repository contains a personal/lab version of a monitoring project. Any sen
 
 
 
-
 ## Documentation
-- docs/rapport-public.pdf
+- [Rapport public](docs/rapport-public.pdf)
 
 ## Selected Screenshots
 
 ### Zabbix Overview
-docs/screenshots/page-19.png
+![Zabbix Overview](docs/screenshots/page-19.png)
 
 ### Zabbix Architecture / Protocols
-docs/screenshots/page-20.png
+![Zabbix Architecture / Protocols](docs/screenshots/page-20.png)
 
 ### Active Monitoring Flow
-docs/screenshots/page-23.png
+![Active Monitoring Flow](docs/screenshots/page-23.png)
 
 ### Dashboard Example
-docs/screenshots/page-24.png
+![Dashboard Example](docs/screenshots/page-24.png)
 
 ### Switch Monitoring / Network Devices
-docs/screenshots/page-26.png
+![Switch Monitoring / Network Devices](docs/screenshots/page-26.png)
 
 ### Availability Report
-docs/screenshots/page-28.png
+![Availability Report](docs/screenshots/page-28.png)
 
 ### Installation Wizard
-docs/screenshots/page-31.png
+![Installation Wizard](docs/screenshots/page-31.png)
 
 ### Database Configuration
-docs/screenshots/page-32.png
+![Database Configuration](docs/screenshots/page-32.png)
 
 ### Summary Before Installation
-docs/screenshots/page-33.png
+![Summary Before Installation](docs/screenshots/page-33.png)
 
 ### Login Interface
-docs/screenshots/page-34.png
+![Login Interface](docs/screenshots/page-34.png)
 
 ### Agent Configuration
-docs/screenshots/page-36.png
+![Agent Configuration](docs/screenshots/page-36.png)
 
 ### Host Creation in Zabbix
-docs/screenshots/page-37.png
+![Host Creation in Zabbix](docs/screenshots/page-37.png)
 
 ### Host Performance Monitoring
-docs/screenshots/page-40.png
+![Host Performance Monitoring](docs/screenshots/page-40.png)
 
 ### Cisco Router Monitoring
-docs/screenshots/page-41.png
+![Cisco Router Monitoring](docs/screenshots/page-41.png)
 
 ### Connectivity Validation
+![Connectivity Validation](docs/screenshots/page-42.png)
+``
 docs/screenshots/page-42.png
